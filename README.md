@@ -10,3 +10,4 @@ In this project i have used convulational neural network on mnist fashion datase
 ![Screenshot_20230227_114701](https://user-images.githubusercontent.com/78349737/221649120-291e6718-c5d9-45a8-a908-b870eee24337.png)
 7. tuner_search.search
 8. Summary of the model
+![image](https://user-images.githubusercontent.com/78349737/221661722-85575cf7-3e33-48c9-ac50-e4244bd0960f.png)
